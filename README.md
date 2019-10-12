@@ -1,3 +1,5 @@
 # Example of repository
-Hello! This is my first sample repo.
+Hello users! This is my first sample repo.
+
+Hello coders.
 
